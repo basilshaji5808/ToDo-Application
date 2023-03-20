@@ -1,0 +1,14 @@
+.banner{
+    background-color: rgb(153, 102, 153);
+    color: rgb(255, 255, 204);
+    width: 100%;
+    height: 200px;
+    margin-bottom: 50px;
+    border-radius: 25px;
+}
+.banner-text{
+top:30%;
+left:45%;
+position:absolute;
+transform:transform;
+}
